@@ -33,6 +33,14 @@ div {
     padding: 50px;
     margin: 20px;
 }
+nav {
+    
+        width: 300px;
+        border: 10px solid green;
+        padding: 50px;
+        margin: 20px;
+    
+}
 a {
     text-decoration-line: none
  }
